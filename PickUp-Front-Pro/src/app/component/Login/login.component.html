@@ -1,0 +1,20 @@
+
+    <div class="row" style="display: flex;justify-content: center; min-height: 500px;align-items: center;">
+        <div class="col-sm-8 col-sm-offset-2">
+          <form [formGroup]='registerForm' style="display: flex; height: 100%; flex-direction: column; align-items: center;" (ngSubmit)='onSubmit()'>
+            <label for="login">
+              Login
+            </label>
+            <div class="form-group" style="margin-bottom:20px">
+              <input type="text" id="login" class="form-control" formControlName="login">
+            </div>
+            <label for="password">
+              Password
+            </label>
+            <div class="form-group">
+                <input type="text" id="password" class="form-control" formControlName="password">
+              </div>
+            <button class="btn btn-primary" type="submit" >Enregistrer</button>
+          </form>
+        </div>
+      </div>

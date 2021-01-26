@@ -1,0 +1,10 @@
+C:\Users\krd70\source\repos\PickUp\PickUp.DataBase\bin\Debug\PickUp.DataBase.dacpac
+C:\Users\krd70\source\repos\PickUp\PickUp.DataBase\bin\Debug\PickUp.DataBase.dll
+C:\Users\krd70\source\repos\PickUp\PickUp.DataBase\bin\Debug\PickUp.DataBase.pdb
+C:\Users\krd70\source\repos\PickUp\PickUp.DataBase\obj\Debug\PickUp.DataBase.sqlprojAssemblyReference.cache
+C:\Users\krd70\source\repos\PickUp\PickUp.DataBase\obj\Debug\PickUp.DataBase.dll
+C:\Users\krd70\source\repos\PickUp\PickUp.DataBase\obj\Debug\PickUp.DataBase.pdb
+C:\Users\krd70\source\repos\PickUp\PickUp.DataBase\obj\Debug\Model.xml
+C:\Users\krd70\source\repos\PickUp\PickUp.DataBase\obj\Debug\refactor.xml
+C:\Users\krd70\source\repos\PickUp\PickUp.DataBase\obj\Debug\postdeploy.sql
+C:\Users\krd70\source\repos\PickUp\PickUp.DataBase\obj\Debug\predeploy.sql

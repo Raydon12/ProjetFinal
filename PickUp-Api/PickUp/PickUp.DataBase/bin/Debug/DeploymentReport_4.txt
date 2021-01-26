@@ -1,0 +1,47 @@
+﻿** Met en surbrillance
+     Tables à reconstruire
+       Aucun
+     Index ordonnés en clusters à supprimer
+       Aucun
+     Index ordonnés en clusters à créer.
+       Aucun
+     Problèmes de données possibles
+       Aucun
+
+** Actions de l'utilisateur
+     Créer
+       [dbo].[Category] (Table)
+       [dbo].[CategoryDetail] (Table)
+       [dbo].[Customer] (Table)
+       [dbo].[EvenementDetail] (Table)
+       [dbo].[Event] (Table)
+       [dbo].[PickReservation] (Table)
+       [dbo].[Reservation] (Table)
+       [dbo].[User] (Table)
+       [dbo].[FK_Category_ToCategoryDetail] (Clé étrangère)
+       [dbo].[FK_Category_ToResto] (Clé étrangère)
+       [dbo].[FK_ToEventDetail] (Clé étrangère)
+       [dbo].[FK_ToResto] (Clé étrangère)
+       [dbo].[FK_PickReservation_ToUser] (Clé étrangère)
+       [dbo].[FK_PickReservation_ToReservation] (Clé étrangère)
+       [dbo].[FK_Reservation_ToResto] (Clé étrangère)
+       Contrainte de validation: contrainte sans nom sur [dbo].[Reservation] (Contrainte de validation)
+       [dbo].[GetPostHash] (Fonction)
+       [dbo].[GetPreHash] (Fonction)
+       [dbo].[GetAllCategory] (Procédure)
+       [dbo].[GetAllEvent] (Procédure)
+       [dbo].[GetAllReservationByUser] (Procédure)
+       [dbo].[GetAllUser] (Procédure)
+       [dbo].[GetAllUserNow] (Procédure)
+       [dbo].[GetEventById] (Procédure)
+       [dbo].[GetReservationByCustomer] (Procédure)
+       [dbo].[GetReservationByUser] (Procédure)
+       [dbo].[GetUserByCategory] (Procédure)
+       [dbo].[GetUserById] (Procédure)
+       [dbo].[Login] (Procédure)
+       [dbo].[PostPickReservations] (Procédure)
+       [dbo].[PostReservations] (Procédure)
+       [dbo].[RegisterCustomer] (Procédure)
+       [dbo].[UpdateCustomer] (Procédure)
+
+** Actions de support

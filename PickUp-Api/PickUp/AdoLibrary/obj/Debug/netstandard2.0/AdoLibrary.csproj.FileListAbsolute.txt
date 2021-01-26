@@ -1,0 +1,9 @@
+C:\Users\krd70\source\repos\PickUp\AdoLibrary\bin\Debug\netstandard2.0\AdoLibrary.deps.json
+C:\Users\krd70\source\repos\PickUp\AdoLibrary\bin\Debug\netstandard2.0\AdoLibrary.dll
+C:\Users\krd70\source\repos\PickUp\AdoLibrary\bin\Debug\netstandard2.0\AdoLibrary.pdb
+C:\Users\krd70\source\repos\PickUp\AdoLibrary\obj\Debug\netstandard2.0\AdoLibrary.csprojAssemblyReference.cache
+C:\Users\krd70\source\repos\PickUp\AdoLibrary\obj\Debug\netstandard2.0\AdoLibrary.AssemblyInfoInputs.cache
+C:\Users\krd70\source\repos\PickUp\AdoLibrary\obj\Debug\netstandard2.0\AdoLibrary.AssemblyInfo.cs
+C:\Users\krd70\source\repos\PickUp\AdoLibrary\obj\Debug\netstandard2.0\AdoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\krd70\source\repos\PickUp\AdoLibrary\obj\Debug\netstandard2.0\AdoLibrary.dll
+C:\Users\krd70\source\repos\PickUp\AdoLibrary\obj\Debug\netstandard2.0\AdoLibrary.pdb
