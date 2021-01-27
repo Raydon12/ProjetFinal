@@ -26,7 +26,7 @@ const HomeHourPro = (props) => {
       <Avatar source={{ uri: item.logo }} resizeMode="contain" />
       <ListItem.Content>
         <ListItem.Title style={{ fontWeight: "bold" }}>
-          {item.name}
+          {item.userName}
         </ListItem.Title>
         <ListItem.Subtitle>
           {item.description.length > 30

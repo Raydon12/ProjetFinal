@@ -48,7 +48,7 @@ const DisplayProList = (props) => {
       <Avatar source={{ uri: item.logo }} resizeMode="contain" />
       <ListItem.Content>
         <ListItem.Title style={{ fontWeight: "bold" }}>
-          {item.name}
+          {item.userName}
         </ListItem.Title>
         <ListItem.Subtitle style={{ maxHeight: 30 }}>
           {item.description.length > 30
@@ -81,7 +81,7 @@ const DisplayProList = (props) => {
         }
         horizontal={false}
         data={props.list}
-        keyExtractor={(item) => item.id.toString()}
+        keyExtractor={(item) => item.userId.toString()}
         renderItem={renderItem}
       />
     </SafeAreaView>

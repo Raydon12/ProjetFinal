@@ -42,7 +42,7 @@ const NearPosition = (props) => {
           <Avatar source={{ uri: item.logo }} resizeMode="contain" />
           <ListItem.Content>
             <ListItem.Title style={{ fontWeight: "bold" }}>
-              {item.name}
+              {item.userName}
             </ListItem.Title>
             <ListItem.Subtitle>
               {item.description.length > 30
@@ -70,7 +70,7 @@ const NearPosition = (props) => {
       <FlatList
         data={list}
         renderItem={Test}
-        keyExtractor={(item) => item.id.toString()}
+        keyExtractor={(item) => item.userId.toString()}
         horizontal={true}
       ></FlatList>
     </View>

@@ -81,7 +81,7 @@ const Example = (props) => {
   const [id, setId] = useState(1);
 
   async function CheckDate(props) {
-    const URL = BaseUrl + "/api/Reservations/All/Pro/" + props.list.id;
+    const URL = BaseUrl + "/api/Reservations/All/Pro/" + props.list.userId;
     const reponse = await fetch(URL);
     const data = await reponse.json();
     return props.GetSlotAction(data);
